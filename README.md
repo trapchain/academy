@@ -1,2 +1,2 @@
 # beats
-submission form for ipfs 
+dropbox submission form for ipfs 
